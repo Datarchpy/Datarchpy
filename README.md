@@ -1,4 +1,4 @@
-# Hello, I'm [Datarchpy] 👋 / こんにちは、[Datarchpy]です 👋
+# Hello, I'm Datarchpy 👋 
 
 Welcome to my GitHub portfolio! Here you can find my projects showcasing my skills and experience in software development, data analysis, and machine learning. / 私のGitHubポートフォリオへようこそ！ここでは、ソフトウェア開発、データ分析、機械学習に関するスキルと経験を紹介するプロジェクトを掲載しています。
 
