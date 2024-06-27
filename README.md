@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 Here are some of my highlighted projects: / 私の注目プロジェクトはこちらです：
 
 ### [Project 1: Machine Learning Model for Predicting Stock Prices](https://github.com/your-username/project-1)
+### [Project 1: Machine Learning Model for Predicting Stock Prices](https://github.com/Datarchpy/project01)
 - **Description / 説明**: A machine learning model using LSTM to predict stock prices. / LSTMを使用した株価予測モデル。
 - **Technologies / 技術**: Python, TensorFlow, Pandas, Scikit-learn
 
