@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋 / こんにちは、[Your Name]です 👋
+# Hello, I'm [Datarchpy] 👋 / こんにちは、[Datarchpy]です 👋
 
 Welcome to my GitHub portfolio! Here you can find my projects showcasing my skills and experience in software development, data analysis, and machine learning. / 私のGitHubポートフォリオへようこそ！ここでは、ソフトウェア開発、データ分析、機械学習に関するスキルと経験を紹介するプロジェクトを掲載しています。
 
@@ -10,16 +10,15 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 ## 🚀 Projects / プロジェクト
 Here are some of my highlighted projects: / 私の注目プロジェクトはこちらです：
 
-### [Project 1: Machine Learning Model for Predicting Stock Prices](https://github.com/your-username/project-1)
 ### [Project 1: Machine Learning Model for Predicting Stock Prices](https://github.com/Datarchpy/project01)
 - **Description / 説明**: A machine learning model using LSTM to predict stock prices. / LSTMを使用した株価予測モデル。
 - **Technologies / 技術**: Python, TensorFlow, Pandas, Scikit-learn
 
-### [Project 2: Web Application for Real-Time Chat](https://github.com/your-username/project-2)
+### [Project 2: Web Application for Real-Time Chat](https://github.com/Datarchpy/project02)
 - **Description / 説明**: A real-time chat application built with Django and WebSockets. / DjangoとWebSocketsを使ったリアルタイムチャットアプリケーション。
 - **Technologies / 技術**: Python, Django, JavaScript, WebSockets
 
-### [Project 3: Data Analysis of COVID-19 Trends](https://github.com/your-username/project-3)
+### [Project 3: Data Analysis of COVID-19 Trends](https://github.com/Datarchpy/project03)
 - **Description / 説明**: Analyzing and visualizing COVID-19 trends using Pandas and Matplotlib. / PandasとMatplotlibを使用したCOVID-19トレンドの分析と可視化。
 - **Technologies / 技術**: Python, Pandas, Matplotlib, Seaborn
 
