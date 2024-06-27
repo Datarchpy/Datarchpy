@@ -22,5 +22,14 @@ Here are some of my highlighted projects: / 私の注目プロジェクトはこ
 - **Description / 説明**: Analyzing and visualizing COVID-19 trends using Pandas and Matplotlib. / PandasとMatplotlibを使用したCOVID-19トレンドの分析と可視化。
 - **Technologies / 技術**: Python, Pandas, Matplotlib, Seaborn
 
+## 📜 Articles & Blogs / 記事とブログ
+- **[Title of the Article 1 / 記事のタイトル1](https://example.com/article-1)** - A detailed analysis on the impact of AI in healthcare. / ヘルスケアにおけるAIの影響に関する詳細な分析。
+- **[Title of the Blog Post 1 / ブログポストのタイトル1](https://example.com/blog-post-1)** - How I implemented a real-time chat application with Django. / Djangoを使用してリアルタイムチャットアプリケーションを実装した方法。
+
+## 🏆 Certifications & Awards / 資格と受賞歴
+- **Certified Data Scientist / 認定データサイエンティスト** - Awarded by Data Science Certification Institute in 2023. / 2023年にデータサイエンス認定機関から授与されました。
+- **AWS Certified Solutions Architect / AWS認定ソリューションアーキテクト** - Completed in 2022. / 2022年に取得。
+
+
 ## 📫 Contact / 連絡先
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com). / [LinkedIn](https://www.linkedin.com/in/your-profile)または[メール](mailto:your-email@example.com)でお気軽にご連絡ください。
