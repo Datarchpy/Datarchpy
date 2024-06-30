@@ -38,3 +38,8 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-pro
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datarchpy&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,docker,aws,figma&theme=dark)](https://skillicons.dev)
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/datarchpy)
+
+[![typograssy](https://typograssy.deno.dev/api?user=datarchpy)](https://github.com/datarchpy)
+
+
+
