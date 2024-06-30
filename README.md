@@ -3,6 +3,7 @@
 Welcome to my GitHub portfolio! Here you can find my projects showcasing my skills and experience in software development, data analysis, and machine learning. / 私のGitHubポートフォリオへようこそ！ここでは、ソフトウェア開発、データ分析、機械学習に関するスキルと経験を紹介するプロジェクトを掲載しています。
 
 ## 🛠️ Skills / 技術スキル
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,docker,aws,figma&theme=dark)](https://skillicons.dev)
 - **Programming Languages / プログラミング言語**: Python, JavaScript, Java, C++
 - **Frameworks / フレームワーク**: Django, Flask, React, TensorFlow, PyTorch
 - **Tools / ツール**: Git, Docker, Kubernetes, AWS, GCP
@@ -36,10 +37,7 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-pro
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datarchpy&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,docker,aws,figma&theme=dark)](https://skillicons.dev)
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/datarchpy)
 
-[![typograssy](https://typograssy.deno.dev/api?user=datarchpy)](https://github.com/datarchpy)
 
 
 
