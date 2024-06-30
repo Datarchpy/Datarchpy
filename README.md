@@ -34,4 +34,7 @@ Here are some of my highlighted projects: / 私の注目プロジェクトはこ
 ## 📫 Contact / 連絡先
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com). / [LinkedIn](https://www.linkedin.com/in/your-profile)または[メール](mailto:your-email@example.com)でお気軽にご連絡ください。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datarchpy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datarchpy&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,docker,aws,figma&theme=dark)](https://skillicons.dev)
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/datarchpy)
