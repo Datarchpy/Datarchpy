@@ -42,7 +42,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - **課題**: データ前処理と簡易な機械学習モデルによる需要予測。
   - **使用技術**: LightGBM, Target Encoding, Python。
 
-- **atmaCup #16 in collaboration with RECRUIT (99位/666)「Top14%」**
+- **atmaCup #16 in collaboration with RECRUIT 「Top14%」**
   - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
   - **使用技術**: XGBoost, PCA, Python。
 
