@@ -1,40 +1,94 @@
-# Hello, I'm Datarchpy 👋 
+# Hello, I'm Datarchpy 👋
 
 Welcome to my GitHub portfolio! Here you can find my projects showcasing my skills and experience in software development, data analysis, and machine learning. / 私のGitHubポートフォリオへようこそ！ここでは、ソフトウェア開発、データ分析、機械学習に関するスキルと経験を紹介するプロジェクトを掲載しています。
 
+---
+
 ## 🛠️ Skills / 技術スキル
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,docker,aws,figma&theme=dark)](https://skillicons.dev)
-- **Programming Languages / プログラミング言語**: Python, JavaScript, Java, C++
-- **Frameworks / フレームワーク**: Django, Flask, React, TensorFlow, PyTorch
-- **Tools / ツール**: Git, Docker, Kubernetes, AWS, GCP
+[![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+- **Programming Languages / プログラミング言語**: Python, C++
+- **Frameworks / フレームワーク**: Django, Flask, React, TensorFlow, PyTorch, Streamlit
+- **Tools / ツール**: Git
+- **BI Tools / BIツール**: Tableau, PowerBI, Looker studio
 
-## 🚀 Projects / プロジェクト
-Here are some of my highlighted projects: / 私の注目プロジェクトはこちらです：
+---
 
-### [Project 1: Machine Learning Model for Predicting Stock Prices](https://github.com/Datarchpy/project01)
-- **Description / 説明**: A machine learning model using LSTM to predict stock prices. / LSTMを使用した株価予測モデル。
-- **Technologies / 技術**: Python, TensorFlow, Pandas, Scikit-learn
-
-### [Project 2: Web Application for Real-Time Chat](https://github.com/Datarchpy/project02)
-- **Description / 説明**: A real-time chat application built with Django and WebSockets. / DjangoとWebSocketsを使ったリアルタイムチャットアプリケーション。
-- **Technologies / 技術**: Python, Django, JavaScript, WebSockets
-
-### [Project 3: Data Analysis of COVID-19 Trends](https://github.com/Datarchpy/project03)
-- **Description / 説明**: Analyzing and visualizing COVID-19 trends using Pandas and Matplotlib. / PandasとMatplotlibを使用したCOVID-19トレンドの分析と可視化。
-- **Technologies / 技術**: Python, Pandas, Matplotlib, Seaborn
-
-## 📜 Articles & Blogs / 記事とブログ
-- **[Title of the Article 1 / 記事のタイトル1](https://example.com/article-1)** - A detailed analysis on the impact of AI in healthcare. / ヘルスケアにおけるAIの影響に関する詳細な分析。
-- **[Title of the Blog Post 1 / ブログポストのタイトル1](https://example.com/blog-post-1)** - How I implemented a real-time chat application with Django. / Djangoを使用してリアルタイムチャットアプリケーションを実装した方法。
-
-## 🏆 Certifications & Awards / 資格と受賞歴
-- **Certified Data Scientist / 認定データサイエンティスト** - Awarded by Data Science Certification Institute in 2023. / 2023年にデータサイエンス認定機関から授与されました。
-- **AWS Certified Solutions Architect / AWS認定ソリューションアーキテクト** - Completed in 2022. / 2022年に取得。
+## 🏛️ Competitions & Achievements / コンペティションと成果
 
 
-## 📫 Contact / 連絡先
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com). / [LinkedIn](https://www.linkedin.com/in/your-profile)または[メール](mailto:your-email@example.com)でお気軽にご連絡ください。
+### 【MDXQ2023】
+- **PBL02 不良個所自動検出（製造）「AI課題優秀賞」**
+  - **課題**: 製造ラインで発生する不良個所を自動検出するアルゴリズムを開発。精度向上のため、アノテーションデータの品質向上とデータ拡張を実施。
+  - **使用技術**: TensorFlow, OpenCV, モデル精度検証に交差検証を適用。
 
+- **PBL06 新規事業提案/組織変革（食品製造小売企業）「総合第4位」**
+  - **課題**: 食品製造業の新規事業立案に携わり、データに基づく市場分析を実施。
+  - **使用技術**: Tableau, Pythonで市場データを視覚化し、売上予測を実施。
+
+- **PBL03 収益改善（店舗運営型）「DS課題優秀賞」**
+  - **課題**: 店舗運営における利益改善のため、売上データと来店データを分析。
+  - **使用技術**: SQL, Python, Tableauで在庫最適化と利益分析を実施。
+
+- **PBL05 工数予測（製造）「現在参加中」**
+  - **課題**: 製造ラインの工数を正確に予測するアルゴリズムを設計。
+  - **進捗**: 機械学習モデルの選定とパラメータ最適化を実施中。
+
+### 【atmaCup】
+- **#18 Turing × atmaCup 「Top12%」**
+  - **課題**: NLPを用いたテキストデータの感情分析と分類モデルの構築。
+  - **使用技術**: BERT, Hugging Face, Python。
+
+- **#17 [初心者歓迎] atmaCup 「Top21%」**
+  - **課題**: データ前処理と簡易な機械学習モデルによる需要予測。
+  - **使用技術**: LightGBM, Target Encoding, Python。
+
+- **atmaCup #16 in collaboration with RECRUIT (99位/666)「Top14%」**
+  - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
+  - **使用技術**: XGBoost, PCA, Python。
+
+- **yukiCup 2023 Autumn x atmaCup 「Top70%」**
+  - **課題**: 時系列データの分析によるイベント来場者数の予測。
+  - **使用技術**: Prophet, Python。
+
+### 【Kaggle】
+- **LLM Prompt Recovery**
+  - **課題**: 大規模言語モデル（LLM）からのプロンプト復元。モデル間のパフォーマンス差を比較検証。
+  - **使用技術**: Transformer, Hugging Face。
+
+- **The Learning Agency Lab - PII Data Detection**
+  - **課題**: 個人情報検出モデルの構築。正確性向上のためデータ拡張を実施。
+  - **使用技術**: BERT, SpaCy。
+
+- **RSNA 2024 Lumbar Spine Degenerative Classification**
+  - **課題**: 医療画像を用いた腰椎退行性変性の分類。
+  - **使用技術**: ResNet50, TensorFlow, CLAHE。
+
+- **AI Mathematical Olympiad - Progress Prize 1**
+  - **課題**: 数学問題の解法生成モデルの開発と評価。
+  - **使用技術**: GPT-3, 自然言語処理。
+
+- **LMSYS - Chatbot Arena Human Preference Predictions**
+  - **課題**: チャットボット間でのユーザー選好予測モデルの構築。
+  - **使用技術**: RLHF, Scikit-learn。
+
+- **Eedi - Mining Misconceptions in Mathematics**
+  - **課題**: 数学教育データにおける誤解ポイントの分析。
+  - **使用技術**: XGBoost, Python。
+
+---
+
+## 🛠️ What I’m Currently Working On / 現在の活動
+- **レコビュ**: Book recommendation system based on user reviews. / ユーザーレビューを基にした本のレコメンドシステム。
+- **シフトスケジュール**: Automated shift scheduling for clinic staff. / クリニック職員用の自動シフト編成プログラム。
+
+---
+
+## 🏆 Certifications & Awards / 認定資格と賞給
+- **JDLA Deep Learning for ENNGINEER 2024#2** 
+---
+
+## 📣 Contact / 連絡先
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com). / [LinkedIn](https://www.linkedin.com/in/your-profile)または[Email](mailto:your-email@example.com)でお気軽にご連絡ください。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datarchpy&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
