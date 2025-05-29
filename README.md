@@ -53,6 +53,11 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - **使用技術**: Prophet, Python。
 
 ### 【Kaggle】
+- **Stanford RNA 3D Folding**
+  - **課題**: RNAの3D構造予測。拡散モデルを使用。
+  - **使用技術**: rhofold, drfold, Boltz。
+  - [コンペのコードはこちら](https://github.com/Datarchpy/Stanford-RNA-3D-Folding)
+
 - **LLM Prompt Recovery**
   - **課題**: 大規模言語モデル（LLM）からのプロンプト復元。モデル間のパフォーマンス差を比較検証。
   - **使用技術**: Transformer, Hugging Face。
