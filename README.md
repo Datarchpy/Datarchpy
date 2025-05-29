@@ -32,6 +32,8 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 - **PBL05 工数予測（製造）「現在参加中」**
   - **課題**: 製造ラインの工数を正確に予測するアルゴリズムを設計。
   - **進捗**: 機械学習モデルの選定とパラメータ最適化を実施中。
+  - [コンペのコードはこちら](https://github.com/Datarchpy/pbl05_mdxq2024)
+
 
 ### 【atmaCup】
 - **#18 Turing × atmaCup 「Top12%」**
