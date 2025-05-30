@@ -31,14 +31,16 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 
 - **PBL05 工数予測（製造）「現在参加中」**
   - **課題**: 製造ラインの工数を正確に予測するアルゴリズムを設計。
-  - **進捗**: 機械学習モデルの選定とパラメータ最適化を実施中。
-  - [コンペのコードはこちら](https://github.com/Datarchpy/pbl05_mdxq2024)
+  - **使用技術**: Python, LightGBM, AutoML(AutoGluon)
+  - [実装コード](https://github.com/Datarchpy/pbl05_mdxq2024)
 
 
 ### 【atmaCup】
 - **#18 Turing × atmaCup 「Top12%」**
   - **課題**: NLPを用いたテキストデータの感情分析と分類モデルの構築。
-  - **使用技術**: BERT, Hugging Face, Python。
+  - **使用技術**: ConvNext, LightGBM。
+  - [実装コード](https://github.com/Datarchpy/Turing_atmaCup18)
+  
 
 - **#17 [初心者歓迎] atmaCup 「Top21%」**
   - **課題**: データ前処理と簡易な機械学習モデルによる需要予測。
@@ -56,7 +58,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 - **Stanford RNA 3D Folding**
   - **課題**: RNAの3D構造予測。拡散モデルを使用。
   - **使用技術**: rhofold, drfold, Boltz。
-  - [コンペのコードはこちら](https://github.com/Datarchpy/Stanford-RNA-3D-Folding)
+  - [実装コード](https://github.com/Datarchpy/Stanford-RNA-3D-Folding)
 
 - **LLM Prompt Recovery**
   - **課題**: 大規模言語モデル（LLM）からのプロンプト復元。モデル間のパフォーマンス差を比較検証。
