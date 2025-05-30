@@ -85,6 +85,12 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - **使用技術**: XGBoost, Python。
 
 ---
+### 【AtCoder Heuristic Contest】
+- **AtCoder Heuristic Contest 048**
+  - **課題**: xxxxx。
+  - **使用技術**: xxxx。
+  - [実装コード](https://github.com/Datarchpy/Stanford-RNA-3D-Folding)
+---
 
 ## 🛠️ What I’m Currently Working On / 現在の活動
 - **レコビュ**: Book recommendation system based on user reviews. / ユーザーレビューを基にした本のレコメンドシステム。
