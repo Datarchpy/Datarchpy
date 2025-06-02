@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 - **#19 atmaCup 「Top14%」**
   - **課題**: 実店舗とECサイトのセッションデータによる購買予測。
   - **使用技術**: LightGBM, LSTM。
-  - [実装コード](https://github.com/Datarchpy/Turing_atmaCup18)
+  - [実装コード](https://github.com/Datarchpy/atmaCup19)
 
 - **#18 Turing × atmaCup 「Top12%」**
   - **課題**: NLPを用いたテキストデータの感情分析と分類モデルの構築。
