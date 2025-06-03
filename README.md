@@ -48,9 +48,9 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   
 
 - **#17 [初心者歓迎] atmaCup 「Top21%」**
-  - **課題**: データ前処理と簡易な機械学習モデルによる需要予測。
-  - **使用技術**: LightGBM, Target Encoding, Python。
-  - [実装コード](https://github.com/Datarchpy/Turing_atmaCup18)
+  - **課題**: 自然言語処理を用いた衣服レビュー推薦予測。
+  - **使用技術**: Devarta, LightGBM。
+  - [実装コード](https://github.com/Datarchpy/atmaCup17)
 
 - **atmaCup #16 in collaboration with RECRUIT 「Top14%」**
   - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
