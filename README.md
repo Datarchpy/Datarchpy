@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - **課題**: 店舗運営における利益改善のため、売上データと来店データを分析。
   - **使用技術**: SQL, Python, Tableauで在庫最適化と利益分析を実施。
 
-- **PBL05 工数予測（製造）「現在参加中」**
+- **PBL05 工数予測（製造）「AI課題優秀賞」**
   - **課題**: 製造ラインの工数を正確に予測するアルゴリズムを設計。
   - **使用技術**: Python, LightGBM, AutoML(AutoGluon)
   - [実装コード](https://github.com/Datarchpy/pbl05_mdxq2024)
@@ -50,14 +50,12 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 - **#17 [初心者歓迎] atmaCup 「Top21%」**
   - **課題**: データ前処理と簡易な機械学習モデルによる需要予測。
   - **使用技術**: LightGBM, Target Encoding, Python。
+  - [実装コード](https://github.com/Datarchpy/Turing_atmaCup18)
 
 - **atmaCup #16 in collaboration with RECRUIT 「Top14%」**
   - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
   - **使用技術**: XGBoost, PCA, Python。
 
-- **yukiCup 2023 Autumn x atmaCup 「Top70%」**
-  - **課題**: 時系列データの分析によるイベント来場者数の予測。
-  - **使用技術**: Prophet, Python。
 
 ### 【Kaggle】
 - **Stanford RNA 3D Folding**
