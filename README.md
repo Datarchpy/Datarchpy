@@ -6,12 +6,41 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 
 ## 🛠️ Skills / 技術スキル
 [![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
-- **Programming Languages / プログラミング言語**: Python, C++
-- **Frameworks / フレームワーク**: Django, Flask, React, TensorFlow, PyTorch, Streamlit
-- **Tools / ツール**: Git
-- **BI Tools / BIツール**: Tableau, PowerBI, Looker studio
+- **Programming Languages / プログラミング言語**: Python, TypeScript, JavaScript, C++
+  - **Frameworks / フレームワーク**:
+    - **Web**: Next.js, React, FastAPI, Django, Flask
+    - **ML/AI**: TensorFlow, PyTorch, Streamlit
+  - **Tools / ツール**: Git, Firebase, Docker
+  - **BI Tools / BIツール**: Tableau, PowerBI, Looker studio
 
 ---
+
+## 🌐 Web Applications / Webアプリケーション
+
+  ### **Action Activation Therapy - 行動活性化療法支援アプリ**
+  [![Skills Used](https://skillicons.dev/icons?i=nextjs,typescript,python,fastapi,firebase&theme=dark)](https://skillicons.dev)
+
+  機械学習を活用したメンタルヘルス支援Webアプリケーション。行動と気分の記録・可視化、ML による気分低下の予兆検知機能を提供。
+
+  - **課題**: 行動活性化療法における行動記録と気分予測を支援するフルスタックアプリケーションの構築。
+  - **使用技術**:
+    - **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS, Recharts
+    - **Backend**: FastAPI, SQLite, SQLAlchemy
+    - **Auth**: Firebase Authentication
+    - **ML**: scikit-learn (気分予測モデル)
+    - **Infrastructure**: CI/CD (GitHub Actions), Vercel, Railway
+  - **主な機能**:
+    - Firebase による認証・認可
+    - 行動と気分のデータ可視化
+    - 機械学習による気分低下の予兆検知（開発中）
+    - PWA対応（スマホアプリのような体験）
+  - **品質管理**: テストカバレッジ62%、27テストケース実装、CI/CD自動化
+  - [📦 Repository](https://github.com/Datarchpy/action-activation-therapy)
+  - [🚀 Live Demo](https://datarchpy-action-activation-therapy.vercel.app/)
+
+  ---
+
+
 
 ## 🏛️ Competitions & Achievements / コンペティションと成果
 
@@ -54,7 +83,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 
 - **atmaCup #16 in collaboration with RECRUIT 「Top14%」**
   - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
-  - **使用技術**: XGBoost, PCA, Python。
+  - **使用技術**: XGBoost, PCA。
 
 
 ### 【Kaggle】
@@ -93,12 +122,6 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - **課題**: xxxxx。
   - **使用技術**: xxxx。
   - [実装コード](https://github.com/Datarchpy/Stanford-RNA-3D-Folding)
----
-
-## 🛠️ What I’m Currently Working On / 現在の活動
-- **レコビュ**: Book recommendation system based on user reviews. / ユーザーレビューを基にした本のレコメンドシステム。
-- **シフトスケジュール**: Automated shift scheduling for clinic staff. / クリニック職員用の自動シフト編成プログラム。
-
 ---
 
 ## 🏆 Certifications & Awards / 認定資格と賞給
