@@ -44,48 +44,6 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 
 ## 🏛️ Competitions & Achievements / コンペティションと成果
 
-
-### 【MDXQ2023】
-- **PBL02 不良個所自動検出（製造）「AI課題優秀賞」**
-  - **課題**: 製造ラインで発生する不良個所を自動検出するアルゴリズムを開発。精度向上のため、アノテーションデータの品質向上とデータ拡張を実施。
-  - **使用技術**: TensorFlow, OpenCV, モデル精度検証に交差検証を適用。
-
-- **PBL06 新規事業提案/組織変革（食品製造小売企業）「総合第4位」**
-  - **課題**: 食品製造業の新規事業立案に携わり、データに基づく市場分析を実施。
-  - **使用技術**: Tableau, Pythonで市場データを視覚化し、売上予測を実施。
-
-- **PBL03 収益改善（店舗運営型）「DS課題優秀賞」**
-  - **課題**: 店舗運営における利益改善のため、売上データと来店データを分析。
-  - **使用技術**: SQL, Python, Tableauで在庫最適化と利益分析を実施。
-
-- **PBL05 工数予測（製造）「AI課題優秀賞」**
-  - **課題**: 製造ラインの工数を正確に予測するアルゴリズムを設計。
-  - **使用技術**: Python, LightGBM, AutoML(AutoGluon)
-  - [実装コード](https://github.com/Datarchpy/pbl05_mdxq2024)
-
-
-### 【atmaCup】
-- **#19 atmaCup 「Top14%」**
-  - **課題**: 実店舗とECサイトのセッションデータによる購買予測。
-  - **使用技術**: LightGBM, LSTM。
-  - [実装コード](https://github.com/Datarchpy/atmaCup19)
-
-- **#18 Turing × atmaCup 「Top12%」**
-  - **課題**: NLPを用いたテキストデータの感情分析と分類モデルの構築。
-  - **使用技術**: ConvNext, LightGBM。
-  - [実装コード](https://github.com/Datarchpy/Turing_atmaCup18)
-  
-
-- **#17 [初心者歓迎] atmaCup 「Top21%」**
-  - **課題**: 自然言語処理を用いた衣服レビュー推薦予測。
-  - **使用技術**: Devarta, LightGBM。
-  - [実装コード](https://github.com/Datarchpy/atmaCup17)
-
-- **atmaCup #16 in collaboration with RECRUIT 「Top14%」**
-  - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
-  - **使用技術**: XGBoost, PCA。
-
-
 ### 【Kaggle】
 
 - **Stanford RNA 3D Folding（コンペティション）**
@@ -146,6 +104,45 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - **課題**: 数学教育データにおける誤解ポイントの分析。
   - **使用技術**: XGBoost, Python。
 
+---
+### 【atmaCup】
+- **#19 atmaCup 「Top14%」**
+  - **課題**: 実店舗とECサイトのセッションデータによる購買予測。
+  - **使用技術**: LightGBM, LSTM。
+  - [実装コード](https://github.com/Datarchpy/atmaCup19)
+
+- **#18 Turing × atmaCup 「Top12%」**
+  - **課題**: NLPを用いたテキストデータの感情分析と分類モデルの構築。
+  - **使用技術**: ConvNext, LightGBM。
+  - [実装コード](https://github.com/Datarchpy/Turing_atmaCup18)
+  
+
+- **#17 [初心者歓迎] atmaCup 「Top21%」**
+  - **課題**: 自然言語処理を用いた衣服レビュー推薦予測。
+  - **使用技術**: Devarta, LightGBM。
+  - [実装コード](https://github.com/Datarchpy/atmaCup17)
+
+- **atmaCup #16 in collaboration with RECRUIT 「Top14%」**
+  - **課題**: レコメンデーションシステムの構築。特徴量エンジニアリングに注力。
+  - **使用技術**: XGBoost, PCA。
+---
+### 【MDXQ2023】
+- **PBL02 不良個所自動検出（製造）「AI課題優秀賞」**
+  - **課題**: 製造ラインで発生する不良個所を自動検出するアルゴリズムを開発。精度向上のため、アノテーションデータの品質向上とデータ拡張を実施。
+  - **使用技術**: TensorFlow, OpenCV, モデル精度検証に交差検証を適用。
+
+- **PBL06 新規事業提案/組織変革（食品製造小売企業）「総合第4位」**
+  - **課題**: 食品製造業の新規事業立案に携わり、データに基づく市場分析を実施。
+  - **使用技術**: Tableau, Pythonで市場データを視覚化し、売上予測を実施。
+
+- **PBL03 収益改善（店舗運営型）「DS課題優秀賞」**
+  - **課題**: 店舗運営における利益改善のため、売上データと来店データを分析。
+  - **使用技術**: SQL, Python, Tableauで在庫最適化と利益分析を実施。
+
+- **PBL05 工数予測（製造）「AI課題優秀賞」**
+  - **課題**: 製造ラインの工数を正確に予測するアルゴリズムを設計。
+  - **使用技術**: Python, LightGBM, AutoML(AutoGluon)
+  - [実装コード](https://github.com/Datarchpy/pbl05_mdxq2024)
 ---
 ### 【AtCoder Heuristic Contest】
 - **AtCoder Heuristic Contest 048**
