@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 [![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 - **Programming Languages / プログラミング言語**: Python, TypeScript, JavaScript, C++
   - **Frameworks / フレームワーク**:
-    - **Web**: Next.js, React, FastAPI, Django, Flask
+    - **Web**: Next.js, React, FastAPI
     - **ML/AI**: TensorFlow, PyTorch, Streamlit
   - **Tools / ツール**: Git, Firebase, Docker
   - **BI Tools / BIツール**: Tableau, PowerBI, Looker studio
@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   ### **Action Activation Therapy - 行動活性化療法支援アプリ**
   [![Skills Used](https://skillicons.dev/icons?i=nextjs,typescript,python,fastapi,firebase&theme=dark)](https://skillicons.dev)
 
-  機械学習を活用したメンタルヘルス支援Webアプリケーション。行動と気分の記録・可視化、ML による気分低下の予兆検知機能を提供。
+  機械学習を活用した行動最適化支援Webアプリケーション。行動と気分の記録・可視化、ML による気分低下の予兆検知機能を提供。
 
   - **課題**: 行動活性化療法における行動記録と気分予測を支援するフルスタックアプリケーションの構築。
   - **使用技術**:
@@ -39,7 +39,45 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
   - [🚀 Live Demo](https://datarchpy-action-activation-therapy.vercel.app/)
 
   ---
+  
+## 🤖 Machine Learning Projects / 機械学習プロジェクト
 
+  ### **arXiv Query Expander Fine-tuning - GPT-3.5ファインチューニングによるarXiv検索最適化** ⭐
+  [![Skills Used](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+
+  GPT-3.5のファインチューニングにより、arXiv論文検索のクエリ拡張精度を大幅に向上させたプロジェクト。データセット拡大と過学習対策により    
+、低コストで高い性能改善を実現。
+
+  - **課題**: 小規模データセット（80サンプル）でのファインチューニングが過学習を引き起こし、性能が悪化（88.9% →
+  61.1%）。この問題を解決し、検索精度を向上させる。
+    - **成果**:
+      - **検索成功率**: 81.8% → **92.7%** (+10.9% 改善) ✨
+      - **検索品質（Rerank Score）**: 0.7776 → **0.8815** (+13.4% 改善) ✨
+      - **データセット拡大**: 80 → **252サンプル** (3.15倍)
+      - **総コスト**: わずか **$4.13** で大幅な性能向上を達成
+    - **使用技術**:
+      - **Fine-tuning**: OpenAI GPT-3.5 Fine-tuning API
+      - **Data Pipeline**: Python, arxiv API, Cohere Rerank API
+      - **Tools**: Git, OpenAI SDK
+    - **技術的ハイライト**:
+      - **過学習対策の実装**: epochs削減（3→1）、learning rate調整（0.1）により過学習を軽減
+      - **データ品質改善**: 引用符削除により成功率90.25%を達成（v1/v2: 45-55% → v3: 90.25%）
+      - **自動化パイプライン**: バッチ処理によるデータ収集、品質フィルタリング、評価の完全自動化
+      - **API制限対応**: Cohere Trial keyのrate limit（10 calls/分）を回避する遅延機構を実装
+      - **包括的なドキュメント**: 実験レポート、ポートフォリオサマリー、GitHub公開手順を完備
+    - **問題解決プロセス**:
+      1. 過学習の診断（training loss = 0.00）
+      2. データセット拡大（80 → 252サンプル）
+      3. データクリーンアップ（引用符28.8% → 0%）
+      4. ハイパーパラメータ最適化
+      5. 性能評価とベースライン比較
+    - [📦 Repository](https://github.com/Datarchpy/arxiv-query-expander-finetuning)
+    - [📊 Portfolio Summary](https://github.com/Datarchpy/arxiv-query-expander-finetuning/blob/main/portfolio/PORTFOLIO_SUMMARY.md)
+    - [📝 Experiment 
+  Report](https://github.com/Datarchpy/arxiv-query-expander-finetuning/blob/main/portfolio/EXPERIMENT_REPORT_FINAL.md)
+
+  ---
+  
 
 
 ## 🏛️ Competitions & Achievements / コンペティションと成果
