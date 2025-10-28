@@ -87,10 +87,40 @@ Welcome to my GitHub portfolio! Here you can find my projects showcasing my skil
 
 
 ### 【Kaggle】
-- **Stanford RNA 3D Folding**
-  - **課題**: RNAの3D構造予測。拡散モデルを使用。
-  - **使用技術**: rhofold, drfold, Boltz。
-  - [実装コード](https://github.com/Datarchpy/Stanford-RNA-3D-Folding)
+
+- **Stanford RNA 3D Folding（コンペティション）**
+    - **🥈銀メダル獲得**
+    - **課題**: RNAの3D構造予測コンペティション。
+    - **使用技術**: RhoFold, DRFold, Boltz。
+
+#### **RhoFold+ Inference Optimization - RNA 3D構造予測の推論最適化** ⭐
+  [![Skills Used](https://skillicons.dev/icons?i=python,pytorch&theme=dark)](https://skillicons.dev)
+
+  RhoFold+（RNA
+  3D構造予測モデル）の推論速度を**29.3%向上**させた最適化プロジェクト。段階的な最適化手法の実装と評価を通じて、実用的な高速化を達成。       
+
+  - **課題**: RhoFold+の推論時間が長く、Kaggle環境のGPU時間制限内での実行が困難。Recyclingメカニズムの計算コストが高い。
+  - **使用技術**:
+    - **Deep Learning**: PyTorch 2.0+, CUDA 11.8
+    - **最適化手法**: Smart Recycling（早期停止）、RNA-FMキャッシング、Mixed Precision
+    - **プロファイリング**: PyTorch Profiler、メモリ解析
+    - **環境**: Kaggle Notebooks (Tesla P100/T4 GPU)
+  - **成果**:
+    - 推論時間: 6.912秒 → 5.347秒（**29.3%改善**）
+    - GPUメモリ: 814.7MB → 780.5MB（4.2%削減）
+    - 実行サイクル数: 10サイクル → 平均4サイクル（**60%削減**）
+    - 精度維持: TM-score 0.3937 → 0.3952（精度を保ちながら高速化）
+    - 長い配列（100nt）では**最大401.6%の高速化**
+  - **技術的ハイライト**:
+    - 3フェーズの段階的最適化アプローチ
+    - 構造収束監視による動的早期停止（RMSD < 0.5Å）
+    - 失敗した最適化の詳細分析（Mixed PrecisionがP100/T4で逆効果になった理由など）
+    - 包括的なドキュメント作成（技術解説、実験結果分析）
+  - [📦 Repository](https://github.com/Datarchpy/rhofold-optimization)
+  - [📊 Kaggle Results](https://github.com/Datarchpy/rhofold-optimization/tree/master/kaggle_optimization/results)
+
+  ---
+
 
 - **LLM Prompt Recovery**
   - **課題**: 大規模言語モデル（LLM）からのプロンプト復元。モデル間のパフォーマンス差を比較検証。
